@@ -19,5 +19,5 @@ You can also find my project through the StudioGO community:
 ## Fun Facts
 
 - Dragon Ball Z is one of my biggest inspirations (and favourite show)
-- I love adding personalization to games
+- I love adding personality to my projects
 - Anime and gaming got me into programming
