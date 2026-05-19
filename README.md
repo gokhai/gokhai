@@ -21,3 +21,7 @@ You can also find my project through the StudioGO community:
 - Dragon Ball Z is one of my biggest inspirations (and favourite show)
 - I love adding personality to my projects
 - Anime and gaming got me into programming
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
