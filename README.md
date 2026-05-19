@@ -2,7 +2,7 @@
 
 I'm Gokhai, a developer focused on creating anime-inspired games and gameplay systems.
 
-Right now, I'm working on a Roblox Dragon Ball-inspired MMORPG whilst learning more about game development and programming. For every project that I create, I love adding persoanlity to each and every one of them feel unique and creative.
+Right now, I'm working on a Roblox Dragon Ball-inspired MMORPG whilst learning more about game development and programming. I love adding personality to each and every one of my projects to make them feel both unique and creative.
 
 Outside of coding, you'll usually find me watching anime, training calisthenics, or playing games.
 
