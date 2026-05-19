@@ -20,7 +20,7 @@ You can also find my project through the StudioGO community:
 
 - Dragon Ball is one of my biggest inspirations for everything (and favourite my show)
 - I am a black-belt kickboxer
-- Thai food is the best thing to ever eat
+- Thai food is the best thing ever to eat
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
