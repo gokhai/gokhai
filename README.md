@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/216654124-2433fb55-4955-421e-9191-9cad876f08cf.gif" height="10%" width = "10%"> 
+
 ## Hi there! 👋
 
 I'm Gokhai, a developer focused on creating anime-inspired games and gameplay systems.
