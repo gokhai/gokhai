@@ -2,11 +2,11 @@
 
 ## Hi there! 👋
 
-I'm Gokhai, a developer focused on creating anime-inspired games and gameplay systems.
+I'm Gokhai, a developer focused on producing creative and stylised games and software!
 
-Right now, I'm working on a Roblox ainme-inspired MMORPG whilst learning more about game development and programming. I love adding personality to each and every one of my projects to make them feel both unique and creative.
+Right now, I am learning more about game development and app development. I love adding personality to each and every one of my projects to make them feel both unique and creative.
 
-Outside of coding, you'll usually find me watching shows, training calisthenics, playing games, or learning new skills.
+Outside of coding, you'll usually find me watching shows, training calisthenics, playing games, or learning new skills such as music and languages.
 
 You can find my projects through the StudioGO community:
 - YouTube: 3.39K+ subscribers
