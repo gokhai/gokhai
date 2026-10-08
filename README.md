@@ -6,7 +6,7 @@ I'm Gokhai, a developer focused on producing creative and stylised games and sof
 
 Right now, I am learning more about game development and app development. I love adding personality to each and every one of my projects to make them feel both unique and creative.
 
-Outside of coding, you'll usually find me watching shows, training calisthenics, playing games, or learning new skills such as music and languages.
+Outside of coding, you'll usually find me watching shows, training calisthenics, playing games, or learning new things such as guitar and languages.
 
 You can find my projects through the StudioGO community:
 - YouTube: 3.39K+ subscribers
